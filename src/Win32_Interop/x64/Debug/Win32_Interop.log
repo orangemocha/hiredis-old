@@ -1,0 +1,26 @@
+﻿Build started 10/20/2015 12:20:45 PM.
+     1>Project "C:\github\janea\hiredis x\src\Win32_Interop\Win32_Interop.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\github\janea\hiredis x\src\Win32_Interop\..\..\deps\lua\src" /I"C:\github\janea\hiredis x\src\Win32_Interop\..\..\deps\jemalloc-win\include" /Zi /nologo /W3 /WX- /Od /D USE_STATIC /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /D LACKS_STDLIB_H /D _CRT_SECURE_NO_WARNINGS /D PSAPI_VERSION=1 /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /errorReport:prompt Win32_PThread.c
+         Win32_PThread.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\Win32_Interop.lib" DbgHelp.lib /NOLOGO /NODEFAULTLIB:MSVCRT /MACHINE:X64 /MACHINE:X64 x64\Debug\win32fixes.obj
+         x64\Debug\Win32_ANSI.obj
+         x64\Debug\Win32_APIs.obj
+         x64\Debug\Win32_Common.obj
+         x64\Debug\Win32_dlmalloc.obj
+         x64\Debug\Win32_Error.obj
+         x64\Debug\Win32_FDAPI.obj
+         x64\Debug\Win32_fdapi_crt.obj
+         x64\Debug\Win32_PThread.obj
+         x64\Debug\win32_rfdmap.obj
+         x64\Debug\Win32_Signal_Process.obj
+         x64\Debug\Win32_Time.obj
+         x64\Debug\Win32_variadicFunctor.obj
+         x64\Debug\win32_wsiocp.obj
+         Win32_Interop.vcxproj -> C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\Win32_Interop.lib
+     1>Done Building Project "C:\github\janea\hiredis x\src\Win32_Interop\Win32_Interop.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40

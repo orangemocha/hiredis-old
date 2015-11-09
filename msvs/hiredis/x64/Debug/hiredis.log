@@ -1,0 +1,16 @@
+﻿Build started 10/20/2015 2:36:24 PM.
+     1>Project "C:\github\janea\hiredis x\msvs\hiredis\hiredis.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _LIB /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TC /wd4996 /errorReport:prompt ..\..\deps\hiredis\async.c
+         async.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\hiredis.lib" /NOLOGO /MACHINE:X64 x64\Debug\async.obj
+         x64\Debug\hiredis.obj
+         x64\Debug\net.obj
+         x64\Debug\sds.obj
+         hiredis.vcxproj -> C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\hiredis.lib
+     1>Done Building Project "C:\github\janea\hiredis x\msvs\hiredis\hiredis.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73

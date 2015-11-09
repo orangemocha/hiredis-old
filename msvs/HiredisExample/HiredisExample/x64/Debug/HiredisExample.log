@@ -1,0 +1,15 @@
+﻿Build started 10/20/2015 2:36:29 PM.
+     1>Project "C:\github\janea\hiredis x\msvs\HiredisExample\HiredisExample\HiredisExample.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\HiredisExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\HiredisExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\HiredisExample.lib" /MACHINE:X64 x64\Debug\adlist.obj
+         x64\Debug\ae.obj
+         x64\Debug\zmalloc.obj
+         "x64\Debug\example-ae-win.obj"
+         "C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\Win32_Interop.lib"
+         "C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\hiredis.lib"
+         HiredisExample.vcxproj -> C:\github\janea\hiredis x\msvs\HiredisExample\x64\Debug\HiredisExample.exe
+     1>Done Building Project "C:\github\janea\hiredis x\msvs\HiredisExample\HiredisExample\HiredisExample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56
